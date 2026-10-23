@@ -8,8 +8,6 @@ Department of Artificial Intelligence and Data Science (B.Tech.), Panimalar Engi
 
 - `E_Commerce_Shipping.ipynb`: analysis, explanations, saved outputs and charts.
 - `Train.csv`: original dataset, kept beside the notebook.
-- `E_Commerce_Shipping_IEEE_Submission.pdf`: paper for submission.
-- `E_Commerce_Shipping_IEEE_Submission.docx`: editable paper.
 - `requirements.txt`: tested Python package versions.
 
 From this folder, install packages with `python -m pip install -r requirements.txt` and start Jupyter using `python -m jupyterlab`. Open the notebook, restart its kernel, and run all cells in order. The relative path `Train.csv` assumes this folder is the working directory. The notebook does not modify the CSV.
